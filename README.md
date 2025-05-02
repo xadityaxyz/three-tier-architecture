@@ -14,6 +14,6 @@ click on “Create an AWS Account” button in the top right corner to create on
 ## Architecture Overview
 # Three-Tier Architecture
 ## Architecture Diagram
-![Three-Tier Architecture](https://raw.githubusercontent.com/xadityaxyz/three-tier-architecture/master/application-code/web-tier/src/assets/3TierArch.png)
+![Three-Tier Architecture](https://raw.githubusercontent.com/xadityaxyz/three-tier-architecture/master/application-code/web-tier/src/assets/3TierArch.png
 
 
